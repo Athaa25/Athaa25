@@ -18,6 +18,22 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Athaa25&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Athaa25&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🚀 Featured Projects
+
+### [KIO System Recommendation Web](https://github.com/Athaa25/KIO_System-Rec-Web) · 🌐 Public
+AI-integrated web system for monitoring network performance and recommending node maintenance actions in a smart greenhouse.
+
+**Tech:** Python · Machine Learning · Jupyter Notebook · Web Development
+
+### [Attendance Website PTI](https://github.com/Athaa25/Attendance_Website_PTI) · 🔒 Private
+Web-based attendance system designed to record attendance data from a Flutter application.
+
+**Tech:** Laravel · Blade · Web Development
+
+### [Fault Watcher](https://github.com/Athaa25/fault-watcher) · 🔒 Private
+TypeScript-based project focused on fault monitoring and detection.
+
+**Tech:** TypeScript
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **Athaa25/Athaa25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
