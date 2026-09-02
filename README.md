@@ -34,6 +34,18 @@ Web-based attendance system designed to record attendance data from a Flutter ap
 TypeScript-based project focused on fault monitoring and detection.
 
 **Tech:** TypeScript
+
+## 📚 Academic Projects & Coursework
+
+| Project | Description | Visibility |
+|---|---|---|
+| [Mata Kuliah AI](https://github.com/Athaa25/Mata-Kuliah-AI) | Collection of AI course assignments and practical work. | 🌐 Public |
+| [WebPro](https://github.com/Athaa25/WebPro) | Web programming coursework and exercises. | 🌐 Public |
+| [Web Programming Training](https://github.com/Athaa25/Web-Programming-Training) | Small web development projects from college assignments. | 🌐 Public |
+| [Java Library Project](https://github.com/Athaa25/Java-Library-Project) | Java project developed while learning Java. | 🌐 Public |
+| [CCTV Shop](https://github.com/Athaa25/CCTV-shop) | Small e-commerce-style website for a CCTV shop. | 🌐 Public |
+| [Record Transportasi dan Rute](https://github.com/Athaa25/Record_Transportasi_dan_rute) | C++ project for transportation records and route management. | 🌐 Public |
+| [Ticket Purchase](https://github.com/Athaa25/Ticket-Purchase) | C-based ticket purchasing project. | 🌐 Public |
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **Athaa25/Athaa25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
